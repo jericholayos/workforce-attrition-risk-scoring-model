@@ -1,4 +1,7 @@
 # HR Employee Attrition Analysis
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
 **Tools:** PostgreSQL 18 · Power BI Desktop  
 **Dataset:** Publicly available HR Analytics dataset - [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 **Records:** 1,470 employees · 35 columns
