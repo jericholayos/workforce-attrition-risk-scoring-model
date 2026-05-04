@@ -37,6 +37,7 @@ The overall attrition rate is **16.12%** (237 out of 1,470 employees).
 - Average Monthly Income by Attrition & Department
 <img width="1416" height="793" alt="Executive Overview" src="https://github.com/user-attachments/assets/597895f2-9b20-4461-937e-8e52a3856dde" />
 
+---
 
 **Page 2 - Employee Deep Dive**
 - KPI cards: High Risk Count, Avg Performance Rating, Avg Job Satisfaction Rating, Overtime Attrition %
