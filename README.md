@@ -46,7 +46,6 @@ The overall attrition rate is **16.12%** (237 out of 1,470 employees).
 - Attrition Rate by Marital Status
 - Attrition Rate by Age Group
 - Attrition Rate by Tenure Group
-<img width="1421" height="795" alt="image" src="https://github.com/user-attachments/assets/6e9446fb-be0b-4054-a6ba-3125188a57f3" />
 
 
 ---
