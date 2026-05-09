@@ -35,7 +35,7 @@ The overall attrition rate is **16.12%** (237 out of 1,470 employees).
 - Attrition Rate by Department
 - Workforce Composition donut
 - Average Monthly Income by Attrition & Department
-<img width="1416" height="793" alt="Executive Overview" src="https://github.com/user-attachments/assets/597895f2-9b20-4461-937e-8e52a3856dde" />
+<img width="1277" height="718" alt="image" src="https://github.com/user-attachments/assets/20e6f2a3-fabc-44e2-bae5-d2e2aee28ebb" />
 
 ---
 
