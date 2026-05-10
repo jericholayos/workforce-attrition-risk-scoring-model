@@ -29,18 +29,18 @@ The overall attrition rate is **16.12%** (237 out of 1,470 employees).
 ## Dashboard
 
 **Page 1 - Executive Overview**
-- KPI cards: Total Employees, Total Attrition, Attrition Rate, Average Tenure
+- KPI cards: Total Employees, Total Attrition, Attrition Rate
 - Attrition Rate by Overtime
 - High At-Risk Roles table
 - Attrition Rate by Department
-- Workforce Composition donut
+- Total Employees by Department
 - Average Monthly Income by Attrition & Department
 <img width="1277" height="718" alt="image" src="https://github.com/user-attachments/assets/20e6f2a3-fabc-44e2-bae5-d2e2aee28ebb" />
 
 ---
 
 **Page 2 - Employee Deep Dive**
-- KPI cards: High Risk Count, Avg Performance Rating, Avg Job Satisfaction Rating, Overtime Attrition %
+- KPI cards: High Risk Count, Avg Performance Rating, Avg Environment Rating, Avg WorkLife Balance Rating, and Average Tenure
 - Income Gap by Job Role: Leavers vs Stayers
 - Attrition Rate by Stock Option Level
 - Attrition Rate by Marital Status
