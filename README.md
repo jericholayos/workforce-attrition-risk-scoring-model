@@ -6,7 +6,7 @@
 **Dataset:** Publicly available HR Analytics dataset - [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 
 ## Overview
-End-to-end data analysis project identifying the key drivers of employee attrition. SQL was used for exploratory data analysis and deep-dive querying. Power BI was used to build an interactive 2-page dashboard presenting findings to a non-technical audience.
+End-to-end data analysis project identifying the key drivers of employee attrition. SQL was used for exploratory data analysis and deep-dive querying. Power BI was used to build a dashboard presenting findings to a non-technical audience.
 
 The overall attrition rate is **16.12%** (237 out of 1,470 employees).
 
