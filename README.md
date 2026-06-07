@@ -13,3 +13,7 @@ The overall attrition rate is **16.12%** (237 out of 1,470 employees).
 
 ## Dashboard
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c05a63d9-19b5-4ac4-9dfd-a1f5542cc4d7" />
+
+
+
+will update readme later this week idk..
